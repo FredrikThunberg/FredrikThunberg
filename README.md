@@ -1,8 +1,13 @@
 ## Hello there, i'm Fredrik 👋
 
-i'm a self-taught fronend dev, looking for a job 👀
-[Portfolio](https://fredrikthunberg.github.io/Mywebsite/), it's only in swedish
 
+
+* i'm a self-taught fronend dev, looking for a job 👀
+              * [Portfolio](https://fredrikthunberg.github.io/Mywebsite/) 
+                  * it's only in swedish
+          
+
+- - - -
 
 - I was unemployed 2021 thanks to covid so i took hold of my dream to become a frontend dev. <br>
 Between June and November Angela yu's [Udemy Courses](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
@@ -18,6 +23,7 @@ a have some knowledge in the things i will work with.
 addapt fast. I was usually given the tasks to solve problems that were that arose to the construction site I was working on and i kinda liked it <br>
 it taught me alot and i'm grateful about that.
 
+- - - -
 
 #### Hobbies/interests beyond frontend ####
 
