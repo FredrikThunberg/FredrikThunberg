@@ -20,7 +20,7 @@ a have some knowledge in the things i will work with.
 
 
 - I'm an trained electrician :electric_plug: and worked as an electrician for about 8 years, and as an electrician you work with new things and have <br>
-to addapt fast. I was usually given the tasks to solve problems that were that arose to the construction site I was working on and i kinda liked it <br>
+to addapt fast. I was usually given the tasks to solve problems on construction site I was working on and i kinda liked it <br>
 it taught me alot and i'm grateful about that.
 
 - - - -
