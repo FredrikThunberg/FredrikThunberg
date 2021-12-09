@@ -3,8 +3,8 @@
 
 
 * i'm a self-taught fronend dev, looking for a job 👀
-              * [Portfolio](https://fredrikthunberg.github.io/Mywebsite/) 
-                  * it's only in swedish
+    * [Portfolio](https://fredrikthunberg.github.io/Mywebsite/) 
+           * it's only in swedish
           
 
 - - - -
