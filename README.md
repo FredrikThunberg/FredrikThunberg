@@ -1,10 +1,11 @@
 ## Hello there, i'm Fredrik 👋
 
 i'm a self-taught fronend dev, looking for a job 👀
+[Portfolio](https://fredrikthunberg.github.io/Mywebsite/), it's only in swedish
 
 
 - I was unemployed 2021 thanks to covid so i took hold of my dream to become a frontend dev. <br>
-Between June and November Angela yu's [Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+Between June and November Angela yu's [Udemy Courses](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 taught me the basics of web development. <br> 
 Now, well now i code as much as i can so when the time comes for me to start my career as a frontend dev <br>
 a have some knowledge in the things i will work with.
@@ -25,11 +26,18 @@ it taught me alot and i'm grateful about that.
 - Travel :airplane:
 - Board games :game_die:
 - Games :computer:
+- Japan :jp: :japan:
+- Korea :kr:
 
 
+#### Some of the projects i have done ####
 
-
-
+Projects  | Link
+------------- | -------------
+B-game  | [B-game](https://fredrikthunberg.github.io/b-game-app/)
+frontend mentor challenge  | [Order Summary Card](https://fredrikthunberg.github.io/Order-summary-card/)
+Travel Asia | [Travel Asia](https://fredrikthunberg.github.io/Travel-Asia/)
+Menu | [Menu](https://fredrikthunberg.github.io/restaurant-app/)
 
 
 
