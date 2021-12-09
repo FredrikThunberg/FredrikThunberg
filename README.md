@@ -26,8 +26,8 @@ it taught me alot and i'm grateful about that.
 - Travel :airplane:
 - Board games :game_die:
 - Games :computer:
-- Japan :jp: 
-- Korea :kr:
+- Japan :japan:
+- Korea 
 
 
 #### Some of the projects i have done ####
