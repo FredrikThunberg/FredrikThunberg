@@ -4,7 +4,7 @@ i'm a self-taught fronend dev, looking for a job 👀
 
 <br>
 I was unemployed 2021 thanks to covid so i took hold of my dream to become a frontend dev. <br>
-Between June and November Angela yu's [Udemy Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+Between June and November Angela yu's [Udemy Course] | (https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 taught me the basics of web development. <br>
 Now, well now i code as much as i can so when the time comes for me to start my career as a frontend dev <br>
 a have some knowledge in the things i will work with.
