@@ -27,7 +27,7 @@ it taught me alot and i'm grateful about that.
 - Board games :game_die:
 - Games :computer:
 - Japan :japan:
-- Korea 
+- Korea :izakaya_lantern:
 
 
 #### Some of the projects i have done ####
