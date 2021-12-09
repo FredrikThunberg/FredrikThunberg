@@ -14,7 +14,7 @@ a have some knowledge in the things i will work with.
 - I always have this thing in me when a problem comes or i do not know about something, i want to fix it or know more about it. :book:
 
 
-- I'm an trained electrician and worked as an electrician for about 8 years, and as an electrician you work with new things and have <br>
+- I'm an trained electrician :electric_plug: and worked as an electrician for about 8 years, and as an electrician you work with new things and have <br>
 addapt fast. I was usually given the tasks to solve problems that were that arose to the construction site I was working on and i kinda liked it <br>
 it taught me alot and i'm grateful about that.
 
