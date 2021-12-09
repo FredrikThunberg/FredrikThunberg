@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Html, Css, Javascript, React and other things that can be a use for me in my goal to be a front-end and then back-end dev
 - 📫 How to reach me. Well you can reach me via mail or here i guess. Thuberg92@gmail.com
 
-?link=http://left&link=http://right
+https://img.shields.io/github/followers/Fredrik?style=social
 
 
 <!---
