@@ -20,8 +20,11 @@ it taught me alot and i'm grateful about that.
 
 #### Hobbies/interests beyond frontend ####
 
-- Golf :golf:, F1 :red_car:, Travel :airplane:, Board games :game_die:, Games :computer:.
-
+- Golf :golf:
+- F1 :red_car:
+- Travel :airplane:
+- Board games :game_die:
+- Games :computer:
 
 
 
