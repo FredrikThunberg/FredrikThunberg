@@ -26,7 +26,7 @@ it taught me alot and i'm grateful about that.
 - Travel :airplane:
 - Board games :game_die:
 - Games :computer:
-- Japan :jp: :japan:
+- Japan :jp: 
 - Korea :kr:
 
 
