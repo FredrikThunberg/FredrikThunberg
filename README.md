@@ -40,10 +40,10 @@ it taught me alot and i'm grateful about that.
 
 Projects  | Link
 ------------- | -------------
-B-game  | [B-game](https://fredrikthunberg.github.io/b-game-app/)
-frontend mentor challenge  | [Order Summary Card](https://fredrikthunberg.github.io/Order-summary-card/)
+B-game  | [B-game](https://github.com/FredrikThunberg/b-game-app)
+Frontend mentor challenge  | [Order Summary Card](https://fredrikthunberg.github.io/Order-summary-card/)
 Travel Asia | [Travel Asia](https://fredrikthunberg.github.io/Travel-Asia/)
-Menu | [Menu](https://fredrikthunberg.github.io/restaurant-app/)
+Restaurant Menu| [Menu](https://fredrikthunberg.github.io/restaurant-app/)
 
 
 
