@@ -44,7 +44,7 @@ B-game  | [B-game](https://github.com/FredrikThunberg/b-game-app)
 Frontend mentor challenge  | [Order Summary Card](https://fredrikthunberg.github.io/Order-summary-card/)
 Travel Asia | [Travel Asia](https://fredrikthunberg.github.io/Travel-Asia/)
 Restaurant Menu| [Menu](https://fredrikthunberg.github.io/restaurant-app/)
-
+Clock tab| [Page](https://fredrikthunberg.github.io/clockpage/)
 
 
 How to reach me. Well you can reach me via mail or here i guess. Thuberg92@gmail.com 📫
